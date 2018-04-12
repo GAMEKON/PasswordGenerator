@@ -1,0 +1,165 @@
+2017-10-14T05:27:08.378Z - normal: Load ~/.CocosCreator/settings.json
+2017-10-14T05:27:08.386Z - normal: checking language setting...
+2017-10-14T05:27:08.387Z - normal: Language: zh
+2017-10-14T05:27:15.215Z - success: protocol editor-framework registered
+2017-10-14T05:27:15.215Z - success: protocol app registered
+2017-10-14T05:27:15.216Z - success: protocol theme registered
+2017-10-14T05:27:15.216Z - success: protocol profile registered
+2017-10-14T05:27:15.216Z - success: protocol packages registered
+2017-10-14T05:27:15.216Z - success: protocol unpack registerred
+2017-10-14T05:27:15.216Z - success: protocol disable-commonjs registerred
+2017-10-14T05:27:15.410Z - normal: connected!
+2017-10-14T05:27:15.422Z - normal: Check project F:\Projects\COCOS\PasswordGenerator
+2017-10-14T05:27:15.432Z - normal: Initializing Cocos2d
+2017-10-14T05:27:19.321Z - normal: Initializing Asset Database
+2017-10-14T05:27:19.425Z - success: protocol uuid registerred
+2017-10-14T05:27:19.425Z - success: protocol db registerred
+2017-10-14T05:27:19.425Z - success: protocol thumbnail registerred
+2017-10-14T05:27:19.425Z - normal: Loading editor/builtin packages
+2017-10-14T05:27:19.523Z - success: anysdk loaded
+2017-10-14T05:27:19.813Z - success: assets loaded
+2017-10-14T05:27:19.818Z - success: builder loaded
+2017-10-14T05:27:19.826Z - success: hierarchy loaded
+2017-10-14T05:27:19.832Z - success: inspector loaded
+2017-10-14T05:27:19.836Z - success: keystore loaded
+2017-10-14T05:27:19.842Z - success: node-library loaded
+2017-10-14T05:27:19.846Z - success: package-asset loaded
+2017-10-14T05:27:19.852Z - success: preferences loaded
+2017-10-14T05:27:19.856Z - success: project-exporter loaded
+2017-10-14T05:27:19.886Z - success: project-importer loaded
+2017-10-14T05:27:19.891Z - success: project-settings loaded
+2017-10-14T05:27:19.896Z - success: ui-kit loaded
+2017-10-14T05:27:19.921Z - success: ui-grid loaded
+2017-10-14T05:27:19.936Z - success: scene loaded
+2017-10-14T05:27:19.940Z - success: sprite-editor loaded
+2017-10-14T05:27:19.947Z - success: store loaded
+2017-10-14T05:27:19.961Z - success: timeline loaded
+2017-10-14T05:27:19.961Z - normal: Loading builtin packages
+2017-10-14T05:27:19.968Z - success: asset-db-debugger loaded
+2017-10-14T05:27:19.969Z - success: color-picker loaded
+2017-10-14T05:27:19.977Z - success: console loaded
+2017-10-14T05:27:19.982Z - success: package-manager loaded
+2017-10-14T05:27:20.186Z - success: sdkbox loaded
+2017-10-14T05:27:20.193Z - success: tester loaded
+2017-10-14T05:27:20.198Z - success: ui-kit-preview-extra loaded
+2017-10-14T05:27:20.207Z - success: ui-kit-preview loaded
+2017-10-14T05:27:20.212Z - success: ui-tree loaded
+2017-10-14T05:27:23.428Z - normal: Initializing project F:\Projects\COCOS\PasswordGenerator
+2017-10-14T05:27:23.456Z - normal: Loading packages
+2017-10-14T05:27:23.491Z - success: replace-icons loaded
+2017-10-14T05:27:23.492Z - normal: Watching packages
+2017-10-14T05:27:23.563Z - normal: Run Application
+2017-10-14T05:27:30.127Z - success: preview server running at http://localhost:7457
+2017-10-14T05:27:47.089Z - normal: 1.6.1
+2017-10-14T05:30:15.911Z - normal: Start building with options : {
+  "androidStudio": true,
+  "apiLevel": "",
+  "appABIs": [],
+  "appKey": "",
+  "appSecret": "",
+  "buildPath": "F:\\Projects\\COCOS\\PasswordGenerator\\build",
+  "debug": false,
+  "dest": "F:\\Projects\\COCOS\\PasswordGenerator\\build\\web-mobile",
+  "excludedModules": [
+    "Mask",
+    "CCSpriteDistortion",
+    "LabelOutline",
+    "ParticleSystem",
+    "TiledMap",
+    "Spine Skeleton",
+    "Widget",
+    "ProgressBar",
+    "ScrollBar",
+    "ScrollView",
+    "ToggleGroup",
+    "PageView",
+    "PageViewIndicator",
+    "Layout",
+    "VideoPlayer",
+    "WebView",
+    "RichText",
+    "AudioSource",
+    "Animation",
+    "MotionStreak",
+    "Collider",
+    "Action",
+    "Audio",
+    "Graphics",
+    "DragonBones",
+    "Physics",
+    "StudioComponent",
+    "RenderTexture",
+    "Chipmunk",
+    "Camera",
+    "Intersection"
+  ],
+  "includeAnySDK": false,
+  "includeEruda": false,
+  "includeSDKBox": false,
+  "inlineSpriteFrames": true,
+  "inlineSpriteFrames_native": true,
+  "md5Cache": false,
+  "mergeStartScene": false,
+  "oauthLoginServer": "",
+  "optimizeHotUpdate": false,
+  "orientation": {
+    "landscapeLeft": true,
+    "landscapeRight": true,
+    "portrait": false,
+    "upsideDown": false
+  },
+  "packageName": "org.cocos2d.PasswordGenerator",
+  "platform": "web-mobile",
+  "previewHeight": 720,
+  "previewWidth": 1280,
+  "privateKey": "",
+  "renderMode": "0",
+  "scenes": [
+    "bcb421c1-07df-4b7e-811b-a178d66c630a"
+  ],
+  "sourceMaps": false,
+  "startScene": "bcb421c1-07df-4b7e-811b-a178d66c630a",
+  "template": "default",
+  "title": "PasswordGenerator",
+  "useDebugKeystore": true,
+  "vsVersion": "auto",
+  "webOrientation": "portrait",
+  "project": "F:\\Projects\\COCOS\\PasswordGenerator",
+  "projectName": "PasswordGenerator",
+  "debugBuildWorker": false
+}
+2017-10-14T05:30:15.917Z - normal: Building F:\Projects\COCOS\PasswordGenerator
+2017-10-14T05:30:15.917Z - normal: Destination F:\Projects\COCOS\PasswordGenerator\build\web-mobile
+2017-10-14T05:30:17.687Z - normal: Delete F:\Projects\COCOS\PasswordGenerator\build\web-mobile\res/**/*
+2017-10-14T05:30:17.689Z - normal: Delete F:\Projects\COCOS\PasswordGenerator\build\web-mobile\src/*/
+2017-10-14T05:30:22.075Z - normal: Compiled project javascript file successfully
+2017-10-14T05:30:22.076Z - normal: Start building assets
+2017-10-14T05:30:22.076Z - normal: Start spawn build-worker
+2017-10-14T05:30:23.853Z - normal: Finish spawn build-worker
+2017-10-14T05:30:23.854Z - normal: Start init build-worker
+2017-10-14T05:30:29.153Z - normal: 1.6.1
+2017-10-14T05:30:29.465Z - normal: Finish init build-worker
+2017-10-14T05:30:29.465Z - normal: Start build-assets in worker
+2017-10-14T05:30:30.960Z - normal: Finish build-assets in worker
+2017-10-14T05:30:30.974Z - normal: Finish building assets
+2017-10-14T05:30:31.099Z - normal: Start building raw assets
+2017-10-14T05:30:31.100Z - normal: [build-raw-assets] Start copying D:\CocosCreator\resources\static\default-assets\image\default_btn_disabled.png to F:\Projects\COCOS\PasswordGenerator\build\web-mobile\res\raw-internal\image\default_btn_disabled.png
+2017-10-14T05:30:31.101Z - normal: [build-raw-assets] Start copying D:\CocosCreator\resources\static\default-assets\image\default_btn_normal.png to F:\Projects\COCOS\PasswordGenerator\build\web-mobile\res\raw-internal\image\default_btn_normal.png
+2017-10-14T05:30:31.101Z - normal: [build-raw-assets] Start copying D:\CocosCreator\resources\static\default-assets\image\default_btn_pressed.png to F:\Projects\COCOS\PasswordGenerator\build\web-mobile\res\raw-internal\image\default_btn_pressed.png
+2017-10-14T05:30:31.101Z - normal: [build-raw-assets] Start copying D:\CocosCreator\resources\static\default-assets\image\default_progressbar.png to F:\Projects\COCOS\PasswordGenerator\build\web-mobile\res\raw-internal\image\default_progressbar.png
+2017-10-14T05:30:31.102Z - normal: Start building plugin scripts
+2017-10-14T05:30:31.127Z - normal: [build-raw-assets] Finish copying D:\CocosCreator\resources\static\default-assets\image\default_btn_disabled.png to F:\Projects\COCOS\PasswordGenerator\build\web-mobile\res\raw-internal\image\default_btn_disabled.png
+2017-10-14T05:30:31.127Z - normal: [build-raw-assets] Start copying D:\CocosCreator\resources\static\default-assets\image\default_sprite_splash.png to F:\Projects\COCOS\PasswordGenerator\build\web-mobile\res\raw-internal\image\default_sprite_splash.png
+2017-10-14T05:30:31.136Z - normal: [build-raw-assets] Finish copying D:\CocosCreator\resources\static\default-assets\image\default_btn_normal.png to F:\Projects\COCOS\PasswordGenerator\build\web-mobile\res\raw-internal\image\default_btn_normal.png
+2017-10-14T05:30:31.136Z - normal: [build-raw-assets] Start copying D:\CocosCreator\resources\static\default-assets\image\default_toggle_checkmark.png to F:\Projects\COCOS\PasswordGenerator\build\web-mobile\res\raw-internal\image\default_toggle_checkmark.png
+2017-10-14T05:30:31.139Z - normal: [build-raw-assets] Finish copying D:\CocosCreator\resources\static\default-assets\image\default_progressbar.png to F:\Projects\COCOS\PasswordGenerator\build\web-mobile\res\raw-internal\image\default_progressbar.png
+2017-10-14T05:30:31.140Z - normal: [build-raw-assets] Start copying D:\CocosCreator\resources\static\default-assets\image\default_toggle_normal.png to F:\Projects\COCOS\PasswordGenerator\build\web-mobile\res\raw-internal\image\default_toggle_normal.png
+2017-10-14T05:30:31.147Z - normal: [build-raw-assets] Finish copying D:\CocosCreator\resources\static\default-assets\image\default_btn_pressed.png to F:\Projects\COCOS\PasswordGenerator\build\web-mobile\res\raw-internal\image\default_btn_pressed.png
+2017-10-14T05:30:31.153Z - normal: [build-raw-assets] Finish copying D:\CocosCreator\resources\static\default-assets\image\default_sprite_splash.png to F:\Projects\COCOS\PasswordGenerator\build\web-mobile\res\raw-internal\image\default_sprite_splash.png
+2017-10-14T05:30:31.154Z - normal: [build-raw-assets] Finish copying D:\CocosCreator\resources\static\default-assets\image\default_toggle_checkmark.png to F:\Projects\COCOS\PasswordGenerator\build\web-mobile\res\raw-internal\image\default_toggle_checkmark.png
+2017-10-14T05:30:31.156Z - normal: [build-raw-assets] Finish copying D:\CocosCreator\resources\static\default-assets\image\default_toggle_normal.png to F:\Projects\COCOS\PasswordGenerator\build\web-mobile\res\raw-internal\image\default_toggle_normal.png
+2017-10-14T05:30:31.157Z - normal: Finish building raw assets
+2017-10-14T05:30:31.483Z - normal: Generating main.js from D:\CocosCreator\resources\static\build-templates\shares\main.js
+2017-10-14T05:30:31.874Z - normal: Generating html from D:\CocosCreator\resources\static\build-templates\web-mobile\template\index.html
+2017-10-14T05:30:31.889Z - normal: Built to "F:\Projects\COCOS\PasswordGenerator\build\web-mobile" successfully
+2017-10-14T05:52:31.848Z - info: shutdown preview server
